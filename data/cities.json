@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-09-12T13:31:30.586Z",
+      "notes": "Where I was born",
+      "position": {
+        "lat": "41.01106136244898",
+        "lng": "28.96682739257813"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2015-05-12T13:35:14.000Z",
+      "notes": "Weekend trip",
+      "position": {
+        "lat": "40.71157055917509",
+        "lng": "-74.00394385585567"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2008-03-10T14:36:20.000Z",
+      "notes": "University youth camp",
+      "position": {
+        "lat": "51.50492569496345",
+        "lng": "-0.12565612792968753"
+      },
+      "id": 98443201
+    }
+  ]
+}
